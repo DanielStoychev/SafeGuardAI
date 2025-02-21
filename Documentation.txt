@@ -1,0 +1,11 @@
+When you run the network traffic capturing script it will save the output result
+in CSV file called network_traffic.csv, in the file you will see tab attack (1 means DDOS
+0 means good traffic)
+
+
+Libraries:
+
+pandas scikit-learn
+tshark
+wireshark
+torch

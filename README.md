@@ -95,5 +95,5 @@ SafeGuardAI/
 ## 📧 **Support & Contact**
 
 For questions or contributions, contact:
-📩 Email: your_email@gmail.com
-🌐 Website: [your-website.com](#)
+📩 Email: d.stoych96@gmail.com
+

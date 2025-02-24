@@ -15,10 +15,6 @@ env/
 *.swp
 *.swo
 
-# Ignore data files (if you don't want to include them)
-data/
-logs/
-
 # Ignore sensitive files
 *.pkl
 *.env
